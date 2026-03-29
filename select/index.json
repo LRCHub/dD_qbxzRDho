@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "水仙 (Prod. GeG)",
+  "base_artist": "唾奇",
+  "createdAt": "2026-03-29T07:40:46.765294Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水仙",
+      "artist": "Cyndi Wang",
+      "has_synced": true,
+      "path": "select/01_水仙_Cyndi_Wang.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "水仙",
+      "artist": "JJ Lin",
+      "has_synced": true,
+      "path": "select/02_水仙_JJ_Lin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "水仙",
+      "artist": "王心凌",
+      "has_synced": true,
+      "path": "select/03_水仙_王心凌.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "水仙",
+      "artist": "王心凌",
+      "has_synced": true,
+      "path": "select/04_水仙_王心凌.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "水仙",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/05_水仙_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "水仙",
+      "artist": "林俊杰",
+      "has_synced": true,
+      "path": "select/06_水仙_林俊杰.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "水仙",
+      "artist": "李碧华",
+      "has_synced": false,
+      "path": "select/07_水仙_李碧华.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "水仙",
+      "artist": "林俊杰",
+      "has_synced": false,
+      "path": "select/08_水仙_林俊杰.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "水仙",
+      "artist": "王心凌",
+      "has_synced": false,
+      "path": "select/09_水仙_王心凌.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "組曲 (愛的天靈靈+水仙+飄飄)",
+      "artist": "Cyndi Wang",
+      "has_synced": true,
+      "path": "select/10_組曲_(愛的天靈靈+水仙+飄飄)_Cyndi_Wang.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "水仙(國語版)",
+      "artist": "羅文",
+      "has_synced": false,
+      "path": "select/11_水仙(國語版)_羅文.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水仙 (Prod. GeG) [feat. にしな]",
+      "artist": "唾奇",
+      "has_synced": false,
+      "path": "select/pl_01_水仙_(Prod._GeG)_[feat._にしな]_唾奇.txt"
+    }
+  ]
+}
